@@ -1,6 +1,7 @@
 #pragma once
 
-class vec2{
+class vec2
+{
 	int x;
 	int y;
 
